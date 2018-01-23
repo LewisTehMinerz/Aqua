@@ -4,7 +4,7 @@
     A Node.js library made for the Discord API (Application Programming Interface).
   <br>
   <p>
-    <a href="https://discord.gg/bRCvFy9"><img src="https://discordapp.com/api/guilds/222078108977594368/embed.png" alt="Discord server" /></a>
+    <a href="https://discord.gg/qeuEXvg"><img src="https://discordapp.com/api/guilds/405447811514105858/embed.png" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/aqualib.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/aqualib.svg?maxAge=3600" alt="NPM downloads" /></a>
   </p>
