@@ -1,5 +1,6 @@
 <div align="center">
   <br/>
+    <img src="https://raw.githubusercontent.com/prixyn/Aqua/dev/aqua.jpg">
     <h1>AquaLib</h1>
     A Node.js library made for the Discord API (Application Programming Interface).
   <br>
